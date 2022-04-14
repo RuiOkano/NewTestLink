@@ -2,6 +2,4 @@
 NewTestLink
 
 ### Test Project Description
-
-### Platform
-- Google Chtome
+NewTestLink Description
