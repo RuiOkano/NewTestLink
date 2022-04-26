@@ -9,7 +9,7 @@ This is a Main suite.
 1. Home-MainPage.spec.md
 2. AAA.spec.md
 3. BBB.spec.md
-4. insta.spec.md
+4. Insta.spec.md
 5. MainPage.spec.md
 6. Page.spec.md
 7. Router.spec.md
